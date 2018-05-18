@@ -1,0 +1,17 @@
+{
+  "name": "pgql",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "micro",
+    "deploy": "now --public"
+  },
+  "author": "mfix22",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2",
+    "micro": "^9.3.1"
+  }
+}

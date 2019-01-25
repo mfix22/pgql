@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "name": "pgql",
+  "alias": "pgql.now.sh",
+  "public": true,
+  "builds": [{ "src": "*.js", "use": "@now/node" }]
+}
